@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "name": "admin", "password": "admin" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "allManuals": [
+    {
+      "brand_title": "Optoma",
+      "name": "Optoma 7317_7318 Русское руководство.pdf",
+      "link": "Optoma 7317_7318 Manual RU_edit.pdf"
+    },
+
+    {
+      "brand_title": "Epson",
+      "name": "Epson CB-520 CB-530 CB-525W CB-535W CB-536Wi Русское руководство.pdf",
+      "link": "Epson CB-520 530 525W 535W 536Wi.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson CB-X06 CB-W06 CB-FH06 CB-E01 Русское руководство.pdf",
+      "link": "Epson CB-X06 W06 FH06 E01.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson СH-TW710 СH-TW740 СH-TW750 Русское руководство.pdf",
+      "link": "Epson СH-TW710 TW740 TW750.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson CH-TW7100 CH-TW7000 Русское руководство.pdf",
+      "link": "CH-TW7100 CH-TW7000 Русское руководство.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson CB‑755F CB‑750F CB‑735Fi CB‑735F CB‑725Wi CB‑725W CB‑720 Русское руководство.pdf",
+      "link": "EPSON CB‑755F CB‑750F CB‑735Fi CB‑735F CB‑725Wi CB‑725W CB‑720 Русское руководство.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson CB‑1485Fi CB‑1480Fi CB‑805F CB‑800F Русское руководство.pdf",
+      "link": "EPSON CB‑1485Fi CB‑1480Fi CB‑805F CB‑800F Русское руководство.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson СB-992F CB-982W CB‑972 CB‑118 CB‑W49 CB‑X49 CB‑E20 CB‑FH52 CB‑W52 CB‑W51 CB‑X51 CB‑E10 CB‑FH06 CB‑W06 CB‑X06 CB‑E01 CB‑X500 CB‑E500 Русское руководство.pdf",
+      "link": "Epson СB-992F CB-982W CB‑972 CB‑118 CB‑W49 CB‑X49 CB‑E20 CB‑FH52 CB‑W52 CB‑W51 CB‑X51 CB‑E10 CB‑FH06 CB‑W06 CB‑X06 CB‑E01 CB‑X500 CB‑E500 Русское руководство.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "EPSON CH-TW7400 Русское руководство.pdf",
+      "link": "EPSON CH-TW7400 Русское руководство.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "EPSON CB‑L200SW CB-L200SX Русское руководство.pdf",
+      "link": "EPSON CB‑L200SW CB-L200SX Русское руководство.pdf"
+    },
+    {
+      "brand_title": "Epson",
+      "name": "Epson CB-L255F CB-L250F CB-L200F CB-L200W CB-L200X Русское руководство.pdf",
+      "link": "Epson CB-L255F CB-L250F CB-L200F CB-L200W CB-L200X Русское руководство.pdf"
+    }
+  ]
 }
